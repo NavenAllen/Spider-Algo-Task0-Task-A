@@ -2,7 +2,9 @@
  * C++ Program to Implement Merge Sort
  */
 
-//S R 108116054
+
+//Naven S R 108116054
+
 
 #include <iostream>
 using namespace std;
